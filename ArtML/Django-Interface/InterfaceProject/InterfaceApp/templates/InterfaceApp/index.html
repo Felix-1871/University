@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Interface</title>
+</head>
+<body>
+    <h1>Interface</h1>
+    <form action="{% url 'upload' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="file" id="file">
+        <input type="submit" value="Upload">
+    </form>
+    <form action="{% url 'edit' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="file" id="file">
+        <input type="submit" value="Edit">
+    </form>
+</html>
