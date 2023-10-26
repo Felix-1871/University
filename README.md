@@ -1,2 +1,2 @@
 # University
-Projects i created at the University of Gdańsk.
+Projects i created at the University of Gdańsk with some hindsight comments.
