@@ -1,0 +1,16 @@
+<root>
+    <person>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <age>30</age>
+        <debtCollectionDate>2023-10-01</debtCollectionDate>
+        <debtAmount>10000</debtAmount>
+    </person>
+    <person>
+        <firstName>Jane</firstName>
+        <lastName>Doe</lastName>
+        <age>20</age>
+        <debtCollectionDate>2023-05-05</debtCollectionDate>
+        <debtAmount>950000</debtAmount>
+    </person>
+    </root>
