@@ -1,0 +1,321 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "name":"C#",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"CsharpIcon"
+
+        },
+        {
+            "id":"2",
+            "name":"ASP.NET",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"AspIcon"
+
+        },
+        {
+            "id":"3",
+            "name":"SQL",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"SqlIcon"
+
+        },
+        {
+            "id":"4",
+            "name":"HTML & CSS",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"HtmlIcon"
+
+        },
+        {
+            "id":"5",
+            "name":"JavaScript",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"JsIcon"
+
+        },
+        {
+            "id":"6",
+            "name":"Vue.js",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"VueIcon"
+
+        },
+        {
+            "id":"7",
+            "name":"PHP",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"PhpIcon"
+
+        },
+        {
+            "id":"8",
+            "name":"Java",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"JavaIcon"
+
+        },
+        {
+            "id":"9",
+            "name":"Python",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"PythonIcon"
+
+        },
+        {
+            "id":"10",
+            "name":"Arch Linux",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"LinuxIcon"
+
+        },
+
+        {
+            "id":"11",
+            "name":"Windows",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"WindowsIcon"
+
+        },
+        {
+            "id":"12",
+            "name":"Android",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"AndroidIcon"
+
+        },
+        {
+            "id":"13",
+            "name":"Git",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"GitIcon"
+
+        },
+        {
+            "id":"14",
+            "name":"Docker",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"DockerIcon"
+
+        },
+        {
+            "id":"15",
+            "name":"Kubernetes",
+            "level":"Intermediate",
+            "description":"",
+            "projects":[
+                {
+                    "id":"1",
+                    "name":"Project 1",
+                    "description":""
+                },
+                {
+                    "id":"2",
+                    "name":"Project 2",
+                    "description":""
+                }
+            ],
+            "style":"",
+            "icon":"KubernetesIcon"
+
+        }
+       
+    ]
+}
