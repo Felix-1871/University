@@ -1,7 +1,3 @@
 # Personal Portfolio Project
 
-This is my first personal portfolio attempt. Didn't go great
-
-## License
-
-This project is licensed under the [MIT License](https://https://opensource.org/license/mit/).
+This was my first real attempt at working with JS Framework. After rewriting it three times i decided to start anew with [Portfolio generator](https://github.com/Felix-1871/University/tree/master/Portfolio-generator).
