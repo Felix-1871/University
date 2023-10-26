@@ -1,3 +1,3 @@
-# basic-xml
+# Basic XML
 
-Basic xml CRUD project for university class.
+This was my first contact with XML. App offers CLI for basic CRUD actions, with everything actually working 😃
